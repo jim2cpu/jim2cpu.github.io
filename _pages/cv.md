@@ -20,7 +20,8 @@ For greater insight into my leadership and performance, review my portfolio.
 ## Work Experience  
 ---
 
-### Maximus Canada  
+**Maximus Canada**  
+
 **AVP, Customer Experience & Solution Operations**  
 *January, 2025 to Present*
 
@@ -30,7 +31,7 @@ Applying continuous innovation in the development and delivery of Maximus Canada
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
   * Rolled out Microsoft M365 Copilot to knowledge workers supported by a training and adoption program. Achieved active user rate of 98%.
 
-### Info-Tech Research Group
+**Info-Tech Research Group**  
 
 **Executive Counselor**  
 *September, 2021 to December, 2024*
@@ -41,7 +42,7 @@ Provided advisory services within the Canadian Public Sector. Managed a book of 
 * Collaborated with core research on the development of new and updated research in the areas of Infrastructure & Operations, Service Management, Identity Management, and FinOps.
 * Received “Presidents Club” award for over-achievement against growth targets in 2022 and 2024.  
 
-### Nova Scotia Community College
+**Nova Scotia Community College**
 
 **Director, Digital Innovation & Technology**  
 *June, 2016 to August, 2021*
