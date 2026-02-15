@@ -20,7 +20,7 @@ For greater insight into my leadership and performance, review my portfolio.
 ## Maximus Canada
 
 **Assistant Vice President, Customer Experience & Solution Operations**
- : Remote | January, 2025 to Present
+ Remote | January, 2025 to Present
 
 Applying continuous innovation in the development and delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Accomplishments include:
 
@@ -31,7 +31,7 @@ Applying continuous innovation in the development and delivery of Maximus Canada
 ## Info-Tech Research Group
 
 **Executive Counselor**
- : Remote | September, 2021 to December, 2024
+ Remote | September, 2021 to December, 2024
 
 Provided advisory services within the Canadian Public Sector. Managed a book of 30+ accounts ($3.5M USD revenue) and collaborated with sales and delivery to support clients while retaining and growing the business. Accomplishments included:
 
