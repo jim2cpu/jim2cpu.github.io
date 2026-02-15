@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Personal Profile
+## Personal Profile
 ***
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
 and transparent leader who connects with business and technology professionals. A lover of technology who
@@ -17,10 +17,9 @@ understands how to securely implement at scale, in alignment with strategy and b
 
 For greater insight into my leadership and performance, review my portfolio.
 
-# Work Experience
-<hr style="margin-bottom: 0px;">
+## Work Experience
 ***  
-## Maximus Canada  
+### Maximus Canada  
 **Assistant Vice President, Customer Experience & Solution Operations**  
 *January, 2025 to Present*
 
@@ -30,7 +29,7 @@ Applying continuous innovation in the development and delivery of Maximus Canada
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
   * Rolled out Microsoft M365 Copilot to knowledge workers supported by a training and adoption program. Achieved active user rate of 98%.
 
-## Info-Tech Research Group
+### Info-Tech Research Group
 
 **Executive Counselor**  
 *September, 2021 to December, 2024*
