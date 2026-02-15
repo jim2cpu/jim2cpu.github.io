@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-
+## Personal Profile
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
 and transparent leader who connects with business and technology professionals. A lover of technology who
 understands how to securely implement at scale, in alignment with strategy and best practices.
 
 For greater insight into my leadership and performance, review my portfolio.
 
-# Work Experience
-## Maximus Canada
-
-**Assistant Vice President, Customer Experience & Solution Operations**
- Remote | January, 2025 to Present
+## Work Experience
+### Maximus Canada  
+**Assistant Vice President, Customer Experience & Solution Operations**  
+January, 2025 to Present
 
 Applying continuous innovation in the development and delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Accomplishments include:
 
@@ -28,10 +27,10 @@ Applying continuous innovation in the development and delivery of Maximus Canada
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
   * Rolled out Microsoft M365 Copilot to knowledge workers supported by a training and adoption program. Achieved active user rate of 98%.
 
-## Info-Tech Research Group
+### Info-Tech Research Group
 
-**Executive Counselor**
- Remote | September, 2021 to December, 2024
+**Executive Counselor**  
+September, 2021 to December, 2024
 
 Provided advisory services within the Canadian Public Sector. Managed a book of 30+ accounts ($3.5M USD revenue) and collaborated with sales and delivery to support clients while retaining and growing the business. Accomplishments included:
 
@@ -48,24 +47,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
