@@ -21,8 +21,8 @@ Work experience
 ======
 ## Maximus Canada
 
-**Assistant Vice President, Customer Experience & Solution Operations**</br>
-Remote | January, 2025 to Present</br></br>
+**Assistant Vice President, Customer Experience & Solution Operations**
+Remote | January, 2025 to Present
 Applying continuous innovation in the development and delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Accomplishments include:
 
   * Implemented NextGen IT Service Desk through the introduction of AI-enabled capabilities within Genesys Cloud CX, including virtual agents.
@@ -31,8 +31,8 @@ Applying continuous innovation in the development and delivery of Maximus Canada
 
 ## Info-Tech Research Group
 
-**Executive Counselor**</br>
-Remote | September, 2021 to December, 2024</br></br>
+**Executive Counselor**
+Remote | September, 2021 to December, 2024
 Provided advisory services within the Canadian Public Sector. Managed a book of 30+ accounts ($3.5M USD revenue) and collaborated with sales and delivery to support clients while retaining and growing the business. Accomplishments included:
 
 * Authored and published numerous industry research notes on Change Leadership, Burnout, Cost Optimization, and Governance.
