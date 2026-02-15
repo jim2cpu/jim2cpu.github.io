@@ -10,15 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Personal Profile
-***
+
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
 and transparent leader who connects with business and technology professionals. A lover of technology who
 understands how to securely implement at scale, in alignment with strategy and best practices.
 
 For greater insight into my leadership and performance, review my portfolio.
-
+***
 ## Work Experience
-***  
 ### Maximus Canada  
 **Assistant Vice President, Customer Experience & Solution Operations**  
 *January, 2025 to Present*
@@ -38,11 +37,11 @@ Provided advisory services within the Canadian Public Sector. Managed a book of 
 
 * Authored and published numerous industry research notes on Change Leadership, Burnout, Cost Optimization, and Governance.
 * Collaborated with core research on the development of new and updated research in the areas of Infrastructure & Operations, Service Management, Identity Management, and FinOps.
-* Received “Presidents Club” award for over-achievement against growth targets in 2022 and 2024.
-
+* Received “Presidents Club” award for over-achievement against growth targets in 2022 and 2024.  
 ***
-Skills
-======
+
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
