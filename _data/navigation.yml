@@ -9,11 +9,11 @@
 
 main:
   
-  - title: "Blog Posts"
+  - title: "My Posts"
     url: /year-archive/
     
-  - title: "Resume"
+  - title: "My Resume"
     url: /cv/
 
-  - title: "Portfolio"
+  - title: "My Portfolio"
     url: /portfolio/
