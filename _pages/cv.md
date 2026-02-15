@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Personal Profile
-***
+---
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
 and transparent leader who connects with business and technology professionals. A lover of technology who
 understands how to securely implement at scale, in alignment with strategy and best practices.
@@ -18,11 +18,11 @@ understands how to securely implement at scale, in alignment with strategy and b
 For greater insight into my leadership and performance, review my portfolio.
 
 ## Work Experience  
-***
+---
 
 ### Maximus Canada  
-**AVP, Customer Experience & Solution Operations**
-  : **January, 2025 to Present**
+**AVP, Customer Experience & Solution Operations**  
+*January, 2025 to Present*
 
 Applying continuous innovation in the development and delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Key Accomplishments:
 
@@ -32,8 +32,8 @@ Applying continuous innovation in the development and delivery of Maximus Canada
 
 ### Info-Tech Research Group
 
-**Executive Counselor**
-  : **September, 2021 to December, 2024**
+**Executive Counselor**  
+*September, 2021 to December, 2024*
 
 Provided advisory services within the Canadian Public Sector. Managed a book of 30+ accounts ($3.5M USD revenue) and collaborated with sales and delivery to support clients while retaining and growing the business. Key Accomplishments:
 
