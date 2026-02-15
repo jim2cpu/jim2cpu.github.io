@@ -18,6 +18,7 @@ understands how to securely implement at scale, in alignment with strategy and b
 For greater insight into my leadership and performance, review my portfolio.
 
 # Work Experience
+<hr style="margin-bottom: 0px;">
 ***  
 ## Maximus Canada  
 **Assistant Vice President, Customer Experience & Solution Operations**  
