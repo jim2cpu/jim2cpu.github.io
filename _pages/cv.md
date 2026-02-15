@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -14,6 +14,8 @@ Profile
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
 and transparent leader who connects with business and technology professionals. A lover of technology who
 understands how to securely implement at scale, in alignment with strategy and best practices.
+
+For greater insight into my leadership and performance, review my portfolio.
 
 Work experience
 ======
