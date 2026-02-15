@@ -10,13 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # Personal Profile
+***
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
 and transparent leader who connects with business and technology professionals. A lover of technology who
 understands how to securely implement at scale, in alignment with strategy and best practices.
 
 For greater insight into my leadership and performance, review my portfolio.
 
-# Work Experience  
+# Work Experience
+***
 ## Maximus Canada  
 **Assistant Vice President, Customer Experience & Solution Operations**  
 January, 2025 to Present
