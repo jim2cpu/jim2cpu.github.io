@@ -39,7 +39,8 @@ Provided advisory services within the Canadian Public Sector. Managed a book of 
 * Authored and published numerous industry research notes on Change Leadership, Burnout, Cost Optimization, and Governance.
 * Collaborated with core research on the development of new and updated research in the areas of Infrastructure & Operations, Service Management, Identity Management, and FinOps.
 * Received “Presidents Club” award for over-achievement against growth targets in 2022 and 2024.
-  
+
+***
 Skills
 ======
 * Skill 1
