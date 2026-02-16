@@ -6,7 +6,7 @@ tags:
   - random
 ---
 
-I've been quiet over the last couple of months because I've been going through a job change cycle. About a decade ago, I promised myself that every 5 year interval, I'd at least have a look around to see if there was something else that might interest me. The thought process behind this was relatively simple:
+I've been quiet over the last couple of months because I've been going through a job change cycle. About a decade ago, I promised myself that every 5 years, I'd at least have a look around to see if there was something else that might interest me. The thought process behind this was relatively simple:
 
 * 5 years is enough time to understand an organization and drive positive impact. On delivery (service and project) and most importantly, on people.
 * Complacency is something I want to avoid, especially in the latter stages of my career. Cyclical job change can help keep things fresh.
