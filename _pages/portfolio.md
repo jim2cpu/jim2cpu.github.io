@@ -15,10 +15,10 @@ redirect_from:
 
 ## Performance Results  
 ---
-* Words
-* Words
-* Words
-* Words 
+* [Info-Tech Research Group (ITRG)](/files/itrg-pa-2023-24.pdf)
+* [Nova Scotia Community College (NSCC)](/files/NSCC-ESP-2021-2022.pdf)
+* [Halifax Regional Municipality (HRM)](/files/HRM-PDP-2014-2015.pdf)
+* [Ontario Public Service (OPS)](/files/ops-pdp-sd-bpo-09-10.pdf)
 
 ## Work Samples
 ---
