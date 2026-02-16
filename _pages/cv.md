@@ -84,7 +84,7 @@ Relocated to Nova Scotia after being selected to drive needed cultural change an
 * Implemented foundational ITIL processes, replaced legacy ITSM tool by procuring and implementing ServiceNow.
 
 
-## Education
+## Education & Qualifications
 ---
 
 **Computer Training Institute** (1999-2000)  
@@ -93,11 +93,8 @@ Computer/Network Technician Diploma
 **St. Francis Xavier University** (1995-1998)  
 Business Administration Degree (Incomplete)
 
-## Certifications
----
+**ITIL Expert Designation** (2009-2013)
 
-**ITIL Expert** (2009-2013)
-
-**HDI Support Center Director** (2010)
+**HDI Support Center Director Certification** (2010)
 
 
