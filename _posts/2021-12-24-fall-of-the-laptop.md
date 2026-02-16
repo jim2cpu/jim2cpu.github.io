@@ -61,6 +61,8 @@ After watching all of these trends converge during a global pandemic, I actually
 ![3-categories](/images/3-categories.png)
 <div>
 
-In retrospect, maybe it's less about the _Fall of the Laptop_ and more about the _Resurgence of the Desktop_ coupled with the _Rise of the Tablet_. 
+<div markdown="1" style="text-align:left">
+In retrospect, maybe it's less about the _Fall of the Laptop_ and more about the _Resurgence of the Desktop_ coupled with the _Rise of the Tablet_.
 
 :vulcan_salute:
+</div>
