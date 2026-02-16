@@ -87,10 +87,17 @@ Relocated to Nova Scotia after being selected to drive needed cultural change an
 ## Education
 ---
 
-**Computer Training Institute**  
-  ~ 1999 to 2000  
-Computer/Network Technician  
-  ~ Diploma
+**Computer Training Institute** (1999-2000)  
+Computer/Network Technician Diploma
 
+**St. Francis Xavier University** (1995-1998)  
+Business Administration Degree (Incomplete)
+
+## Certifications
+---
+
+**ITIL Expert** (2009-2013)
+
+**HDI Support Center Director** (2010)
 
 
