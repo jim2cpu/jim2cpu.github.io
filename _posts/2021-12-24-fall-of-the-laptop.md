@@ -18,7 +18,7 @@ Remember that Apple keynote where Steve Jobs took the first generation Macbook A
 
 To me, this is what started this fundamental shift in consumer expectations around what a laptop needed to be. _Extremely_ thin, _extremely_ light... but also capable. Intel's response to the Macbook Air was to establish the "[Ultrabook](https://en.wikipedia.org/wiki/Ultrabook)" spec and marketing designation, and the result was that manufacturers had to lean-in on this or be left behind. 
 
-### So what was the problem?
+**So what was the problem?**
 
 Well, in my opinion the problem was actually Intel's innovation, or lack thereof. This caused a pressure point where the consumer expectation for sexier laptops went beyond the capabilities of Intel's mobile CPUs. I first noticed this when transitioning from a [Dell Latitude 7270](https://www.laptopmag.com/reviews/laptops/dell-latitude-e7270) (6th generation "Skylake" CPU) to a [Dell Latitude 5285](https://www.laptopmag.com/reviews/laptops/dell-latitude-5285-2in1) (7th generation "Kaby Lake" CPU). I never felt that the 7270 was chonky, but when you compare that to the Dell models that followed... well, I guess it was a little chonky.
 
@@ -34,7 +34,7 @@ The 5285 was a thermal mess. I can't tell you how many units I saw die in the fi
 
 While this may sound like I'm just dunking on Dell, I saw the same issues on the Apple side. I bought my wife a 2020 Macbook Air with a 10th generation Intel i3 CPU... guess what? It was an absolute mess. The battery life was a sliver of the 2014 Macbook Air it replaced. Even when having a FaceTime call with family (a pretty common use case), the fans would spin and the noise would ramp to unacceptable levels.
 
-### ... and then the Pandemic happened
+**... and then the Pandemic happened**
 
 The perfect storm against the Laptop continued... as everyone started that #WFH life in March of 2020, most of us took our work laptops with us and started using Zoom or Microsoft Teams 8 hours a day in our work. This negated the primary function of a laptop... which was to be a _mobile_ computer and exacerbated this emerging thermal management issue. Teams, especially, remains poorly optimized and it just _killed_ laptop thermal solutions. 
 
@@ -42,7 +42,7 @@ After a few months, I abandoned the laptop entirely for a Dell Optiplex 3020 I b
 
 Then, I ended up taking a new job that was 100% remote. My new employer sent me a new Lenovo laptop and while it was a beautiful piece of hardware... it still suffered from the same noise issue I'd grown to detest. Back in the box it went, and I'm fully committed to that desktop computing lifestyle. I even upgraded my Optiplex 3020 to an Optiplex 7040 (Oooh, from 2015!) just to treat myself.
 
-### The Rise of the Tablet
+**The Rise of the Tablet**
 
 The other thing that has happened over the last couple of years, is the iPad has gotten way better and is a more capable mobile computer than ever before. The most significant addition to the iPad experience was mouse support, something many of us have been yammering about for years...
 
