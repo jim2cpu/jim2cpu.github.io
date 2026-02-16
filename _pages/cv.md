@@ -20,7 +20,7 @@ For greater insight into my leadership and performance, review my portfolio.
 ## Work Experience  
 ---
 
-**Maximus Canada**  
+[**Maximus Canada**](https://maximuscanada.ca/)  
 
 **AVP, Customer Experience & Solution Operations**  
 *January, 2025 to Present*
@@ -31,7 +31,7 @@ Applying continuous innovation in the development and delivery of Maximus Canada
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
   * Rolled out Microsoft M365 Copilot to knowledge workers supported by a training and adoption program. Achieved active user rate of 98%.
 
-**Info-Tech Research Group**  
+[**Info-Tech Research Group**](https://www.infotech.com/)  
 
 **Executive Counselor**  
 *September, 2021 to December, 2024*
@@ -42,7 +42,7 @@ Provided advisory services within the Canadian Public Sector. Managed a book of 
 * Collaborated with core research on the development of new and updated research in the areas of Infrastructure & Operations, Service Management, Identity Management, and FinOps.
 * Received “Presidents Club” award for over-achievement against growth targets in 2022 and 2024.  
 
-**Nova Scotia Community College**
+[**Nova Scotia Community College**](https://www.nscc.ca/)
 
 **Director, Digital Innovation & Technology**  
 *June, 2016 to August, 2021*
@@ -53,7 +53,7 @@ Expanded the mandate of the department to be a source of innovation that helped 
 * Developed and executed a multi-year network and data center strategy aimed at reducing the College's reliance on a single provider, while balancing investment in cloud services and owned/operated hosting facilities.
 * Transformed organizational communication and collaboration through the full deployment of Microsoft 365.
 
-### Halifax Regional Municipality
+[**Halifax Regional Municipality**](https://www.halifax.ca/)
 
 **Manager, ICT Transformation**  
 *February, 2015 to May, 2016*
@@ -83,7 +83,7 @@ Relocated to Nova Scotia after being selected to drive needed cultural change an
 
 * Implemented foundational ITIL processes, replaced legacy ITSM tool by procuring and implementing ServiceNow.
 
-### Ontario Public Service
+[**Ontario Public Service**](https://www.ontario.ca/)
 
 **Senior Manager, Service Desk & Enabling Technology**  
 *September, 2007 to January, 2011*
