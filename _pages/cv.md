@@ -55,13 +55,42 @@ Expanded the mandate of the department to be a source of innovation that helped 
 
 ### Halifax Regional Municipality
 
-## Skills
-***
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Manager, ICT Transformation**  
+*February, 2015 to May, 2016*
+
+Appointed to "second in command" senior management position to lead a transformation program focused on four key areas: 1) leading alternative service delivery initiatives, 2) developing a cloud strategy, 3) developing a Smart City strategy, and 4) exploring shared services opportunities with other levels of government. Key accomplishment:
+
+* Led the planning and design of a Public WiFi service for the city. Leveraging municipally owned fiber optic network to support economic and social development while enhancing municipal service delivery. 
+
+**Manager, Service Management & Operations**  
+*October, 2013 to January, 2015*
+
+Appointed to senior management position created in support of a reorganization to bring all IT operations groups together (75 staff) in an effort to modernize technologies and create a culture of service excellence. Responsible for ITSM, Application Management, and Infrastructure Management portfolios. Funded by $15M operating budget, $10M capital budget. Key accomplishment:
+
+* Revitalized $20M SAP implementation through outsourcing hosting, technical and functional support to a third-party supplier and focusing internal resources on the strategic use and business support of SAP.
+
+**Manager, ICT Planning & Client Relationship Management**  
+*September, 2012 to September 2013*
+
+Appointed to senior management position to implement ITSM best practices and to modernize the legacy client relationship management function. Responsible for ITSM, PPM and Enterprise Architecture portfolios (30 staff). Funded by $3M annual operational budget. Key accomplishment:
+
+* Led the development of a 5 year, $50M Transit Technology Roadmap intended to modernize the rider experience, transit operations, and address $2M/year in estimated fare evasion.
+
+**Manager, Client Relationship Management**  
+*February, 2011 to August, 2012*
+
+Relocated to Nova Scotia after being selected to drive needed cultural change and to implement industry best practices in support of a planned IT service delivery transformation in the municipality. Led IT Service Desk and CRM function (15 staff). Funded by $1.5M annual operational budget. Key accomplishment:
+
+* Implemented foundational ITIL processes, replaced legacy ITSM tool by procuring and implementing ServiceNow.
+
+
+## Education
+---
+
+**Computer Training Institute**  
+  ~ 1999 to 2000  
+Computer/Network Technician  
+  ~ Diploma
+
 
 
