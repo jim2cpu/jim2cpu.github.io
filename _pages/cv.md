@@ -27,9 +27,8 @@ For greater insight into my leadership and performance, review [my portfolio](/p
 
 Applying continuous innovation in the development and delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Key Accomplishments:
 
-  * Implemented NextGen IT Service Desk through the introduction of AI-enabled capabilities within Genesys Cloud CX, including virtual agents.
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
-  * Rolled out Microsoft M365 Copilot to knowledge workers supported by a training and adoption program. Achieved active user rate of 98%.
+  * Delivered corporate PC refresh project featuring Microsoft Surface, Intune, and Autopilot V2. 99% successful deployment rate with an average setup time of 15 minutes.
 
 [**INFO-TECH RESEARCH GROUP**](https://www.infotech.com/)  
 
