@@ -22,11 +22,11 @@ redirect_from:
 
 ## Work Samples
 ---
-* Words
-* Words
-* Words
-* Words
-* Words
+* [ITRG: IT Governance Conceptual Model for Municipal Government](/files/IT-Planning-Governance-Conceptual-Model.pdf)
+* [ITRG: Shared Services & Funding Model Diagram](/files/Shared%20Services%20&%20Funding%20Model%20Diagram%20-%20Healthcare.pdf)
+* [NSCC: 90 Day Assessment for Chief Financial Officer](/files/90-day-assessment-090916.pdf)
+* [NSCC: 2020 Annual Report to Finance, Audit & Risk Committee of the Board](/files/2020-annual-report-to-board.pdf)
+* [HRM: Public Wi-Fi Executive Brief](/files/public-wifi-executive-brief-090115.pdf)
 
 ## Communication Samples
 ---
