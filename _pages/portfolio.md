@@ -30,16 +30,16 @@ redirect_from:
 
 ## Communication Samples
 ---
-* Words
-* Words
-* Words
-* Words
-* Words
-* Words
+* [ITRG: “The Pandemic Accelerant: Digital Transformation and Burnout”](https://www.infotech.com/research/the-pandemic-accelerant-digital-transformation-and-burnout)
+* [ITRG: “Lead Change in the Public Sector With Focus, Positivity, and Passion”](https://www.infotech.com/research/lead-change-in-the-public-sector-with-focus-positivity-and-passion)
+* [NSCC: Second Wave Message to Department](/files/nscc-take-care-apr21.PNG)
+* [NSCC: Blog Post re: Customer Satisfaction](/files/captains-log-csat-may21-csat.pdf)
+* [HRM: Year End Accomplishments](/files/hrm-year-end-accomplishments-combined.pdf)
+* [OPS Farewell Communication](/files/ops-farewell-jim.PNG)
 
 ## Feedback
 ---
-* Words
-* Words
-* Words
-* Words
+* [ITRG: Measured Value Survey Comments](/files/ITRG-Measured-Value-Survey-Comments.pdf)
+* [NSCC: Notes of Appreciation](/files/nscc-thank-yous.pdf)
+* [HRM: Farewell Note of Appreciation](/files/hrm-farewell-email.PNG)
+* [OPS: Farewell Notes of Appreciation](/files/ops-farewell-thanks.pdf)
