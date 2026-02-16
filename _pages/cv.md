@@ -90,20 +90,19 @@ Relocated to Nova Scotia after being selected to drive needed cultural change an
 
 Selected to finalize the build and operation of the Ontario government's
 enterprise IT Service Desk supporting 68,000 government employees.
-Services delivered at a highly competitive cost of $20 per call by 170 staff out of four geographical locations across the province. Funded by $18M annual operational budget.
+Services delivered at a highly competitive cost of $20 per call by 170 staff out of four geographical locations. Funded by $18M annual operational budget.
 
 **Senior Manager, Best Practice Office**  
 *August, 2009 to August, 2010*
 
 Requested to take on additional responsibility for 12 months by adding
-our Best Practice Office (35 staff) to existing portfolio while a colleague was away on leave. Responsibility included the implementation, operation and continual improvement of ITSM Best Practices for the Ontario government's 1300 staff infrastructure division. This included Incident, Change, Problem, Service Asset &
-Configuration, Release and Service Level management. Funded by $5M annual operational budget.
+our Best Practice Office (35 staff) to existing portfolio while a colleague was away on leave. Responsibility included the implementation, operation and continual improvement of ITSM Best Practices for the Ontario government's 1300 staff infrastructure division. Funded by $5M annual operational budget.
 
 **Senior Manager, Service Order Management**  
 *August, 2008 to June, 2009*
 
 Requested to take on additional responsibility for 11 months by adding
-the Service Order Management office to existing portfolio after the departure of a colleague. Responsibility included the operational management of the Order Management function - which included the coordination, fulfillment and/or provisioning of customer submitted orders for infrastructure products and services. 10,000 orders processed per month by 100 staff out of three geographical locations across the province. Funded by $10M annual operational budget.
+the Service Order Management office to existing portfolio after the departure of a colleague. Responsibility included the operational management of the Order Management function. 10,000 orders processed per month by 100 staff out of three geographical locations. Funded by $10M annual operational budget.
 
 **Manager, OPS IT Service Desk – St. Catharines**  
 *August, 2006 to September, 2007*
@@ -115,9 +114,7 @@ reviews and career development.
 **IT Security Lead**  
 *March, 2004 to August, 2006*
 
-Selected to build an operational IT security function for the
-Ministry of Transportation (MTO). Responsible for the management of security infrastructure and processes. Led
-forensic investigations and supported Freedom of Information Act requests.
+Selected to build an operational IT security function for the Ministry of Transportation. Responsible for the management of security infrastructure and processes. Led forensic investigations and supported Freedom of Information Act requests.
 
 **Technical Support Analyst**  
 *April, 2003 to February, 2004*
