@@ -39,6 +39,7 @@ A ramp isn't going to work for every use case and the sofa in our family room is
 <div markdown="1" style="text-align:center">
 ![dachsteps-side](/images/dachsteps-side.JPG)
 ![dachsteps-inplace](/images/dachsteps-inplace.JPG)
+</div>
 
 I'm quite pleased with how these turned out and they are completely integrated into the daily lives of our happy dogs. 14/10 would recommend.
 
