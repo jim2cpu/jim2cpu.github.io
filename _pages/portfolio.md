@@ -11,7 +11,7 @@ redirect_from:
 
 ## Leadership Impact
 ---
-* Words
+* [Human Synergistic “Achieve Blue” Assessment](/files/leadership-impact-assessment.pdf)
 
 ## Performance Results  
 ---
