@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Technology Executive"
 permalink: /cv/
 author_profile: true
 redirect_from:
