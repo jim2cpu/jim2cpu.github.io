@@ -28,7 +28,7 @@ For greater insight into my leadership and performance, review [my portfolio](/p
 Applying continuous innovation in the development and delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Key Accomplishments:
 
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
-  * Delivered corporate PC refresh project featuring Microsoft Surface, Intune, and Autopilot V2. 99% successful deployment rate with an average setup time of 15 minutes.
+  * Delivered corporate PC refresh project featuring Microsoft Surface, Intune, and Autopilot V2. Creating a positive employee experience was a core objective resulting in a 99% successful deployment rate with an average setup time of 15 minutes.
 
 [**INFO-TECH RESEARCH GROUP**](https://www.infotech.com/)  
 
