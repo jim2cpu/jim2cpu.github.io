@@ -104,7 +104,7 @@ Requested to take on additional responsibility for 11 months by adding
 the Service Order Management office to existing portfolio after the departure of a colleague. Responsibility included the operational management of the Order Management function. 10,000 orders processed per month by 100 staff out of three geographical locations. Funded by $10M annual operational budget.
 
 **Manager, OPS IT Service Desk – St. Catharines**  
-*August, 2006 to September, 2007*
+*September, 2006 to August, 2007*
 
 Selected to build and manage the first OPS IT Service Desk location in
 St. Catharines. Recruited and managed 50 staff across a variety of roles including conducting performance
