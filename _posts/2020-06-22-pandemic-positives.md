@@ -8,7 +8,7 @@ tags:
 
 I have a tendency to focus on the positive, so I thought I would pull together a little list of the positive developments during this pandemic. I will start with some personal positives and then I will "zoom out" and look at this from a global perspective.
 
-### Personal Positives
+## Personal Positives
 
 **Family Togetherness**
 
@@ -26,7 +26,7 @@ It's hard to believe I've been a technology leader now for going on 14 years. In
 
 With all of this time at home, Alicia and I have been spending a lot of time on a variety of improvements. Alicia has gone all next level with her gardening. The property looks amazing. I've rebuilt the wood ramp to the shed, built a gardening prep bench for Alicia in the garage... and resurfacing the rear deck is planned for the next 2-3 weeks.
 
-### Global Positives
+## Global Positives
 
 **The Environment is Getting a Break**
 
