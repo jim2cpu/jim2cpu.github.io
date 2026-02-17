@@ -44,7 +44,7 @@ It had never occured to me before that moment that management would be for me. I
 
 Then a month later, he came back and asked me again. He told me I should trust him. That I'd be great at it.
 
-I said no. I didn't want to manage people. I was a technologist! :smiling_face:
+I said no. I didn't want to manage people. I was a technologist! :slightly_smiling_face:
 
 Then a month later, he came back a final time and asked me again. He _insisted_ that I trust him this time. It was a secondment after all. If I didn't like it, I could return to my current position. What was the risk, he said.
 
