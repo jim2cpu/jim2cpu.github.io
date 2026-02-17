@@ -55,7 +55,7 @@ The [Ikea Jerker desk was legendary](https://www.marketing-mojo.com/blog/ikeas-c
 
 This was the first house we built together just as we were starting our family. It was a large, brick Executive-style home in Fonthill, Ontario. I did have the house properly wired with coaxial and ethernet with everything running to a predefined area in the mechanical room in the basement. The Jerker came along for the ride!
 
-At this point, I'd already been tricked into management (that's a story I should tell at some point!) and then senior management. With my job being non-technical (but busier) and with two babies arriving 13 months apart, I had no time, energy or money to build and maintain a lab. This was also the start of my Apple :fa-apple: phase. My focus in this house was cord cutting. I mounted antenna's in the attic and converted an old [HP Mediavault NAS](https://en.wikipedia.org/wiki/HP_Media_Vault) into a Mac server running [SageTV](http://www.sagetv.com/).
+At this point, I'd already been tricked into management (that's a story I should tell at some point!) and then senior management. With my job being non-technical (but busier) and with two babies arriving 13 months apart, I had no time, energy or money to build and maintain a lab. This was also the start of my Apple :apple: phase. My focus in this house was cord cutting. I mounted antenna's in the attic and converted an old [HP Mediavault NAS](https://en.wikipedia.org/wiki/HP_Media_Vault) into a Mac server running [SageTV](http://www.sagetv.com/).
 
 <div markdown="1" style="text-align:center">
 ![](/images/hackintosh-server-fonthill2.JPG)
