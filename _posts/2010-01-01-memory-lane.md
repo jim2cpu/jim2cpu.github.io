@@ -9,17 +9,15 @@ tags:
 
 Have you ever heard of the ["Way Back Machine"?](https://web.archive.org/) It's essentially an internet library... storing digital content found on the web. It's intent is to ensure that possibly important content regarding our society isn't lost when someone chooses to hit the 'delete' key. One of the interesting features is that you can plug in a web URL and 'look back' at not only the content previously stored there... but the web design itself. How about a glimpse into what was for jimkirk.org, shall we?
 
-January, 2002 - "Jim: Unplugged" first emerges using an interesting table-driven design. Lots of blue and grey. Interesting.
+[January, 2002](/images/2002-jimkirk-org.png) - "Jim: Unplugged" first emerges using an interesting table-driven design. Lots of blue and grey. Interesting.
 
-January, 2003 - Looks pretty much the same, but I added a content management system and a polling system...
+[January, 2003](/images/2003-jimkirk-org.png) - Looks pretty much the same, but I added a content management system and a polling system...
 
-January, 2004 - I was really kicking it up a notch in 2004. Loved this design. Still do.
+[January, 2004](/images/2004-jimkirk-org.png) - I was really kicking it up a notch in 2004. Loved this design. Still do.
 
-February, 2005 - Pretty much the same as in 2004. I was using a content management system called "Daedalus". Written by my friend Jason Nugent.
+[February, 2005](/images/2005-jimkirk-org.png) - Pretty much the same as in 2004. I was using a content management system called "Daedalus". Written by my friend Jason Nugent.
 
-March, 2006 - This was when I really started mucking around in my code trying to make it my own. I ditched the antiquated left aligned menu in favor of the dynamic drop-down lists. This was the cleanest design I ever had.
-
-April, 2007 - Last entry (thus far) sucked up by the Way Back Machine. Same design as in 2006.
+[March, 2006](/images/2006-jimkirk-org.png) - This was when I really started mucking around in my code trying to make it my own. I ditched the antiquated left aligned menu in favor of the dynamic drop-down lists. This was the cleanest design I ever had.
 
 Wow, that brings back memories.
 
