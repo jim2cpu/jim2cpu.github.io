@@ -6,7 +6,7 @@ tags:
   - technology
 ---
 
-I never thought for a moment that I would end up in management. I was the introverted, hands on keyboard geek who got his start on the technical support side of the business. A few stars aligned (or collided :fa-smile-o:) that fundamentally altered my career trajectory. I occasionally make reference to being "tricked into management", so I thought I would tell the tale. I hope to tell it in a way that may help others who are unsure of where their technology careers _may_ take them.
+I never thought for a moment that I would end up in management. I was the introverted, hands on keyboard geek who got his start on the technical support side of the business. A few stars aligned (or collided) that fundamentally altered my career trajectory. I occasionally make reference to being "tricked into management", so I thought I would tell the tale. I hope to tell it in a way that may help others who are unsure of where their technology careers _may_ take them.
 
 **Background**
 
