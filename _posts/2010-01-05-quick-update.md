@@ -1,5 +1,5 @@
 ---
-title: 'Quick Update...'
+title: 'Quick Update'
 date: 2010-01-05
 permalink: /posts/2010/01/quick-update/
 tags:
