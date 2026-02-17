@@ -7,7 +7,10 @@ tags:
   - technology
 ---
 
-Family life can be busy, especially with a couple of tweens and dogs. Staying on top of the appointments, athletics, birthdays, and to dos can be challenging. For the longest time, Alicia managed a physical whiteboard calendar and once a month, she'd pull it off the wall, wipe it down... and update it for the month ahead. This was a lot of work for her and it was inconvenient to maintain, so we decided to move this to a digital solution because...
+Family life can be busy, especially with a couple of tweens and dogs. Staying on top of the appointments, athletics, birthdays, and to dos can be challenging. 
+
+For the longest time, Alicia managed a physical whiteboard calendar and once a month, she'd pull it off the wall, wipe it down... and update it for the month ahead. This was a lot of work for her and it was inconvenient to maintain, so we decided to move this to a digital solution because...
+
 <div markdown="1" style="text-align:center">
 ![meme-drake-family-calendar](/images/meme-drake-family-calendar.PNG)
 </div>
