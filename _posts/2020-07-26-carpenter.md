@@ -1,7 +1,7 @@
 ---
 title: 'Should I Have Been a Carpenter?'
 date: 2020-07-26
-permalink: /posts/2020/08/homelab-evolution/
+permalink: /posts/2020/07/carpenter/
 tags:
   - life
   - random
