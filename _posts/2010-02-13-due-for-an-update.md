@@ -1,5 +1,5 @@
 ---
-title: 'I'm due for an update'
+title: 'I am due for an update'
 date: 2010-02-13
 permalink: /posts/2010/02/due-for-update/
 tags:
