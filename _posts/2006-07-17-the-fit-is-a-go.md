@@ -13,4 +13,8 @@ The car looks great in our opinion, with the exception of some missing cosmetic 
 
 So Alicia is happy and that's all that really matters to us. The only concern that I have now is a loss in resale value... but hopefully we won't have to cross that bridge for a few years.
 
+<div markdown="1" style="text-align:center">
+![](/images/Fit_Back_005.jpg)
+</div>
+
 :vulcan_salute:
