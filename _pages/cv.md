@@ -123,7 +123,7 @@ Responsible for providing technical support services to approximately 5,000 Mini
 **Incident Coordinator**  
 *January, 2002 to March, 2003*
 
-Coordinated response to high priority incidents and outages pertaining to government networks, systems and life-critical applications. Including communicating status to key stakeholders at regular intervals.
+Responsibile for coordinating response to high priority incidents affecting government networks, systems, and life-critical applications.
 
 **Technical Support Analyst**  
 *November, 2000 to December, 2001*
