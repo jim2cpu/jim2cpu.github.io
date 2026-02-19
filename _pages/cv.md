@@ -121,12 +121,12 @@ Selected to build an operational IT security function for the Ministry of Transp
 Responsible for providing technical support services to approximately 5,000 Ministry of Transportation customers.
 
 **Incident Coordinator**  
-*January, 2002 to March, 2003*
+*November, 2001 to March, 2003*
 
 Responsibile for coordinating response to high priority incidents affecting government networks, systems, and life-critical applications.
 
 **Technical Support Analyst**  
-*November, 2000 to December, 2001*
+*November, 2000 to October, 2001*
 
 Responsible for providing technical support services to approximately 30,000 Ministry of Public Safety & Security customers. 
 
