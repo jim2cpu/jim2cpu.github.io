@@ -25,7 +25,7 @@ For greater insight into my leadership and performance, review [my portfolio](ht
 **AVP, Customer Experience & Solution Operations**  
 *January, 2025 to Present*
 
-Selected to lead the delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Playing a leadership role in the application of AI as a productivity enhancer _and_ as innovation to optimize the customer journey. Executive advocate for continuous improvement in employee and customer experience. Key Accomplishments:
+Selected to lead the delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Playing a leadership role in the application of AI as a productivity enhancer _and_ as innovation to optimize the customer journey. Key Accomplishments:
 
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
   * Delivered corporate PC refresh project featuring Microsoft Surface, Intune, and Autopilot V2. Creating a positive employee experience was a core objective resulting in a 99% successful deployment rate with an average setup time of 15 minutes.
