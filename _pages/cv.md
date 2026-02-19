@@ -84,7 +84,7 @@ Relocated to Nova Scotia after being selected to drive needed cultural change an
 
 [**ONTARIO PUBLIC SERVICE**](https://www.ontario.ca/)
 
-**Senior Manager, Service Desk & Enabling Technology**  
+**Senior Manager, OPS IT Service Desk**  
 *September, 2007 to January, 2011*
 
 Selected to finalize the build and operation of the Ontario government's
