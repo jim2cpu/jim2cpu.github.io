@@ -130,7 +130,7 @@ Coordinated response to high priority incidents and outages pertaining to govern
 
 Responsible for providing technical support services to approximately 30,000 Ministry of Public Safety & Security customers. 
 
-## Education & Qualifications
+## Education, Qualifications, & Memberships
 ---
 
 **Computer Training Institute** (1999-2000)  
@@ -143,4 +143,6 @@ Business Administration Degree (Incomplete)
 
 **HDI Support Center Director Certification** (2010)
 
+**Board Director**, Atlantic Canada Organization of Research Networks (2016-2021)
 
+**Member**, Cybersecurity Advisory Committee, Canada's National Research & Education Network (2020-2021)
