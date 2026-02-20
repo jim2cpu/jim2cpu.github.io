@@ -46,7 +46,7 @@ Trusted advisor to Canadian Public Sector IT leaders, driving strategic growth a
 **Director, Digital Innovation & Technology**  
 *June, 2016 to August, 2021*
 
-Expanded the mandate of the department to be a source of innovation that helped the College achieve its strategic objectives. Responsible for a portfolio of technology services and supporting functions (86 staff). Funded by $13M annual budget. Key Accomplishments:
+Transformed the IT department into a strategic innovation hub, aligning technology services with the College’s long-term objectives. Led a multidisciplinary team of 86 staff and managed a $13M annual budget. Key Accomplishments:
 
 * Developed a Cloud ERP / Student Information System strategy and roadmap to inform Board of Governors approval for multi-year digitization program.
 * Developed and executed a multi-year network and data center strategy aimed at reducing the College's reliance on a single provider, while balancing investment in cloud services and owned/operated hosting facilities.
