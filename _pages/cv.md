@@ -35,11 +35,11 @@ Selected to lead the delivery of Maximus Canada's enabling technology. Providing
 **Executive Counselor**  
 *September, 2021 to December, 2024*
 
-Provided advisory services within the Canadian Public Sector. Managed a book of 30+ accounts ($3.5M USD revenue) and collaborated with sales and delivery to support clients while retaining and growing the business. Key Accomplishments:
+Trusted advisor to Canadian Public Sector IT leaders, driving strategic growth and operational excellence across a 30+ account portfolio ($3.5M USD revenue). Partnered with sales and delivery teams to ensure high client retention and in-account growth. Key Accomplishments:
 
-* Authored and published numerous industry research notes on Change Leadership, Burnout, Cost Optimization, and Governance.
+* Authored and published high-impact industry research on critical executive themes, including Change Leadership, Burnout, Cost Optimization, and Governance.
 * Collaborated with core research on the development of new and updated research in the areas of Infrastructure & Operations, Service Management, Identity Management, and FinOps.
-* Received “Presidents Club” award for over-achievement against growth targets in 2022 and 2024.  
+* Earned the "Presidents Club" distinction in both 2022 and 2024 for consistently exceeding aggressive year-over-year growth targets.  
 
 [**NOVA SCOTIA COMMUNITY COLLEGE**](https://www.nscc.ca/)
 
