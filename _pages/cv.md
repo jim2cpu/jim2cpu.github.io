@@ -50,7 +50,7 @@ Transformed the IT department into a strategic innovation hub, aligning technolo
 
 * Developed a Cloud ERP / Student Information System strategy and roadmap to inform Board of Governors approval for multi-year digitization program.
 * Developed and executed a multi-year network and data center strategy aimed at reducing the College's reliance on a single provider, while balancing investment in cloud services and owned/operated hosting facilities.
-* Transformed organizational communication and collaboration through the full deployment of Microsoft 365.
+* Led the enterprise-wide migration to Microsoft 365, fundamentally changing how campus communication and collaboration.
 
 [**HALIFAX REGIONAL MUNICIPALITY**](https://www.halifax.ca/)
 
