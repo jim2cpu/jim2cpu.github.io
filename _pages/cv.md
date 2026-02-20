@@ -137,7 +137,7 @@ Responsible for providing technical support services to approximately 30,000 Min
 Computer/Network Technician Diploma
 
 **St. Francis Xavier University** (1995-1998)  
-Business Administration Degree (Incomplete)
+Business Administration Program
 
 **ITIL Expert Designation** (2009-2013)
 
