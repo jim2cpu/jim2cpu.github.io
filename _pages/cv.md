@@ -57,7 +57,7 @@ Transformed the IT department into a strategic innovation hub, aligning technolo
 **Manager, ICT Transformation**  
 *February, 2015 to May, 2016*
 
-Appointed to "second in command" senior management position to lead a transformation program focused on four key areas: 1) leading alternative service delivery initiatives, 2) developing a cloud strategy, 3) developing a Smart City strategy, and 4) exploring shared services opportunities with other levels of government. Key accomplishment:
+Appointed as “second in command” to lead a transformation program focused on four key areas: 1) leading alternative service delivery initiatives, 2) developing a cloud strategy, 3) developing a Smart City strategy, and 4) exploring shared services opportunities with other levels of government. Key accomplishment:
 
 * Led the planning and design of a Public WiFi service for the city. Leveraging municipally owned fiber optic network to support economic and social development while enhancing municipal service delivery. 
 
