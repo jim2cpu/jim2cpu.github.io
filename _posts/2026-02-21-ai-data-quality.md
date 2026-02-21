@@ -27,8 +27,8 @@ With zero prompt engineering, it spit out [this 18-minute podcast](/files/Jim_Ki
 
 I shared this with my folks as a working example of AI in action and my Father rightly commented that there wasn't any reference to our children. Why? There's not a lot of data. When the kids were young, I was too busy and tired to be writing blog posts and that's a rather large hole in the dataset.
 
-It's **really** good. Not perfect, but if I was giving it a letter grade, it would absolutely be an **A**.
+It's **really** good. Not perfect, but if I was giving it a letter grade, it would be an **A**.
 
-Standby for more AI adventures. I have an idea for my next AI/Data project.
+Standby for more AI adventures. I have another idea in the backlog.
 
 :vulcan_salute:
