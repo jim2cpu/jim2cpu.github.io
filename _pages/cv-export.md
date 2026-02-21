@@ -5,7 +5,7 @@
       <p style="margin: 10px 0 0 0; color: #555; line-height: 1.6;">
         <strong>Technology Executive</strong><br>
         📧 <a href="mailto:jimkirkns@outlook.com">jimkirkns@outlook.com</a> | 📱 902-482-6573<br>
-        📍 Halifax, Nova Scotia | 🔗 <a href="https://jimkirk.org/portfolio">Portfolio</a>
+        📍 Halifax, Nova Scotia
       </p>
     </td>
     <td style="border: none; text-align: right; width: 120px; vertical-align: middle;">
@@ -13,8 +13,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## Personal Profile
 ---
