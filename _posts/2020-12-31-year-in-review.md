@@ -26,7 +26,7 @@ With the whole family hitting our home network hard, I spent a lot of time upgra
 
 As for the Steelers... what a rollercoaster. They started out on an incredible 7-0 run, but by December, the offense had completely fallen apart and become agonizing to watch. I spent the end of the year complaining about terrible fourth-down calls and demanding they use a fullback in short-yardage situations.
 
-The Heavier Stuff I would be remiss if I didn't mention that 2020 also forced us to have some tough conversations. Following the tragic events in Nova Scotia in April, Emma asked us, "Why are people allowed to have guns?", which firmly cemented my status as a two-issue voter: climate change and gun control. We also took time to discuss true equality, policing reform, and why Black Lives Matter.
+**The Heavier Stuff**. I would be remiss if I didn't mention that 2020 also forced us to have some tough conversations. Following the tragic events in Nova Scotia in April, Emma asked us, "Why are people allowed to have guns?", which firmly cemented my status as a two-issue voter: climate change and gun control. We also took time to discuss true equality, policing reform, and why Black Lives Matter.
 
 It was a heavy, exhausting, and bizarre year, but I've never been more thankful for my family, our health, and our Wi-Fi. Bring on 2021.
 
