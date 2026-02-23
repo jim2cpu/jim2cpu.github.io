@@ -1,6 +1,6 @@
 ---
 title: '2009 Year-in-Review'
-date: 2009-12-30
+date: 2009-12-31
 permalink: /posts/2009/12/year-in-review/
 tags:
   - life
