@@ -1,9 +1,8 @@
 ---
-title: '2012 Tweet Archive'
-date: 2012-12-31
-permalink: /posts/2012/12/tweets/
-tags:
-  - twitter
+layout: archive
+title: "2012 Tweet Archive"
+permalink: /pages/2012-tweets
+author_profile: true
 ---
 
 ### Navigation

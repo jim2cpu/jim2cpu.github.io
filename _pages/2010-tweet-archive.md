@@ -1,9 +1,8 @@
 ---
-title: '2010 Tweet Archive'
-date: 2010-12-31
-permalink: /posts/2010/12/tweets/
-tags:
-  - twitter
+layout: archive
+title: "2010 Tweet Archive"
+permalink: /pages/2010-tweets
+author_profile: true
 ---
 
 ### Navigation
