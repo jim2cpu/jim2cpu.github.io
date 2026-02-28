@@ -78,7 +78,7 @@ Appointed to senior management position to implement ITSM best practices and to 
 **Manager, Client Relationship Management**  
 *February, 2011 to August, 2012*
 
-Relocated to Nova Scotia after being selected to drive needed cultural change and to implement industry best practices in support of a planned IT service delivery transformation in the municipality. Led IT Service Desk and CRM function (15 staff). Funded by $1.5M annual operational budget. Key accomplishment:
+Relocated to Nova Scotia after being selected to drive needed cultural change and to implement industry best practices in support of a planned IT service delivery transformation. Led IT Service Desk and CRM function (15 staff). Funded by $1.5M annual operational budget. Key accomplishment:
 
 * Implemented foundational ITIL processes, replaced legacy ITSM tool by procuring and implementing ServiceNow.
 
