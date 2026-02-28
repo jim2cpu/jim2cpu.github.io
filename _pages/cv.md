@@ -98,7 +98,7 @@ Requested to take on additional responsibility for 12 months by adding
 our Best Practice Office (35 staff) to existing portfolio while a colleague was away on leave. Responsibility included the implementation, operation and continual improvement of ITSM Best Practices for the Ontario government's 1300 staff infrastructure division. Funded by $5M annual operational budget.
 
 **Senior Manager, Service Order Management**  
-*August, 2008 to June, 2009*
+*August, 2008 to July, 2009*
 
 Requested to take on additional responsibility for 11 months by adding
 the Service Order Management office to existing portfolio after the departure of a colleague. Responsibility included the operational management of the Order Management function. 10,000 orders processed per month by 100 staff out of three geographical locations. Funded by $10M annual operational budget.
