@@ -27,7 +27,7 @@ In my initial attempt, I used [Google Gemini](https://gemini.google.com/app) to 
 
 This was _fine_, and technically it is what I asked for... an archive. It just didn't feel meaningful and it offered almost no reread value. If this place is really intended to be the story of my life, the content needs to pull me back. To remember. This wasn't content, it was just data.
 
-After a couple of days, I came up with a better idea. I went back to [NotebookLM](https://notebooklm.google.com) and added [jimkirk.org](https://jimkirk.org) as a data source. I then added the annualized tweet archives that I produced above (markdown files that I had [Gemini](https://gemini.google.com/app) create for each year of tweets). Then I gave [NotebookLM](https://notebooklm.google.com) the following prompt:
+After a couple of days, I came up with a better idea. I went back to [NotebookLM](https://notebooklm.google.com) and added [jimkirk.org](https://jimkirk.org) as a data source. I then added the annualized tweet archives that I produced above (markdown files that I had [Gemini](https://gemini.google.com/app) create for each year). Then I gave [NotebookLM](https://notebooklm.google.com) the following prompt:
 
 >Take this data and write a blog post that effectively summarizes the year 2020. It would be great if it could be written in a similar style as my other blog posts. While I don't want the post to be too long, I do want to make sure we hit the high notes. A lot was going on with our family at that time and I'm sure I was tweeting about some interesting technology and sports topics.
 
