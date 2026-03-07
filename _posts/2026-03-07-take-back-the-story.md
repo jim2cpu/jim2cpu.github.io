@@ -19,7 +19,7 @@ Until this happened...
 ![](/images/ruined-twitter.jpg)
 </div>
 
-Fortunately, there's a solution to this problem. You can request an archive of your data. At the time of this post, if you go to "More > Settings and Privacy > Your account > Download an archive of your data", you can initiate a process to download all of the content you've contributed over time. You can take **your** data back.
+Fortunately, there's a solution to this problem. On Twitter, you can request an archive of your data. At the time of this post, if you go to "More > Settings and Privacy > Your account > Download an archive of your data", you can initiate a process to download all of the content you've contributed over time. You can take **your** data back.
 
 After initiating this, you'll get an email with a link to download your archive. It gives you a zip file that contains thousands of files that won't be helpful for most people. Not to worry, this is where we can put AI to work to help.
 
