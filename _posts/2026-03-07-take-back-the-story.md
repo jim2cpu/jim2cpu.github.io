@@ -7,7 +7,7 @@ tags:
   - life
 ---
 
-In my [last post](https://jimkirk.org/posts/2026/02/ai-data-quality/), I talked about reclaiming past blog posts and consolidating that data here. I used that dataset in concert with AI to generate an interesting audio podcast of my adult life. However, the dataset was incomplete.
+In my [last post](https://jimkirk.org/posts/2026/02/ai-data-quality/), I talked about reclaiming past blog posts and consolidating that data here. I used that dataset in concert with AI to generate an [interesting audio podcast](/files/jim_kirk_captains_log_feb26.m4a) of my adult life. However, the dataset was incomplete.
 
 As mentioned, I haven't blogged consistently over the course of the last 25 years - there have been ebbs and flows. When I look at my timeline, there's a big gap between 2010 and 2020. It was a crazy decade. Baby time, a major relocation, career building, home building, and more. Was I completely _digitally silent_ during this period? Not at all, like almost everyone else, I shifted the digital view into my life to social media, specifically Twitter.
 
