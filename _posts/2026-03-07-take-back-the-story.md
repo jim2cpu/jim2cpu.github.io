@@ -31,7 +31,7 @@ After a couple of days, I came up with a better idea. I went back to [NotebookLM
 
 >Take this data and write a blog post that effectively summarizes the year 2020. It would be great if it could be written in a similar style as my other blog posts. While I don't want the post to be too long, I do want to make sure we hit the high notes. A lot was going on with our family at that time and I'm sure I was tweeting about some interesting technology and sports topics.
 
-I was very pleased with the end result. Here is the ["Year-in-Review" blog post](https://jimkirk.org/posts/2020/12/year-in-review/) that it generated for 2020. Not too short, not too long, hits all the high notes and sounds a bit
+I was very pleased with the end result. Here is the ["Year-in-Review" blog post](https://jimkirk.org/posts/2020/12/year-in-review/) that it generated for 2020. Not too short, not too long, hits all the high notes, and reads like something I'd write.
 
 Once I had the methodology and the prompt sorted out, I quickly generated these posts for much of the "lost decade" which are now available [here in my archive](https://jimkirk.org/year-archive/).
 
