@@ -28,7 +28,7 @@ For greater insight into my leadership and performance, review [my portfolio](ht
 Selected to lead the delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Playing a leadership role in the application of AI as a productivity enhancer _and_ as innovation to optimize the customer journey. Key Accomplishments:
 
   * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
-  * Rolled out Microsoft 365 Copilot to knowledge workers supported by a training and adoption program. Achieved active user rate of 98%.
+  * Led the enterprise-wide deployment of Microsoft 365 Copilot, architecting a comprehensive training framework that secured a 98% sustained adoption rate across the knowledge worker population.
   * Delivered corporate PC refresh project featuring Microsoft Surface, Intune, and Autopilot V2. Creating a positive employee experience was a core objective resulting in a 99% successful deployment rate with an average setup time of 15 minutes.
 
 [**INFO-TECH RESEARCH GROUP**](https://www.infotech.com/)  
