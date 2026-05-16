@@ -10,7 +10,7 @@ My exploration of value-oriented AI use cases continues, both personally and pro
 
 For years, I have been personally subscribed to Microsoft 365 Family. Not because I use the Office suite much in my personal life, but because I was using OneDrive as a means to backup family photos, videos, and documents. Well, with the average number of subscriptions per household increasing year-over-year, I decided I was done paying for this one. However, by cancelling this I needed to find a new way to get a copy of my data offsite. I'm a technology leader for crying out loud, I need my [3-2-1 backup](https://www.veeam.com/blog/321-backup-rule.html).
 
-The high-level approach taken isn't that surprising. My parents live about 3 hours aways from me and they now have a fast internet connection - why not backup to their place?
+The high-level approach taken isn't that surprising. My parents live about 3 hours aways from me and they now have a fast internet connection so why not backup to their place?
 
 Finding a device for this didn't prove to be that difficult. I got my hands on an old thin client, a Dell Wyse 3040. These aren't that useful anymore but for this use case it was more than adequate. Run a Linux-based operating system, have an encrypted hard drive attached via USB and then manage connectivity over [tailscale](https://tailscale.com/).
 
@@ -47,6 +47,6 @@ In summary, with AI Assistance I was able to design a highly custom network atta
 * Friction fit slot for the 2.5" hard drive
 * Friction fit slot at the front for a 40mm fan to cool the hard drive
 
-Could I have done this without the help of AI? Sure, but the time and effort to learn the requisite skills on my own would probably have negated the value of output I was looking for.
+Could I have done this without the help of AI? Sure, but the time and effort to learn the requisite skills on my own would have exceeded the value of the desired output. AI helped me dip my toes into waters I probably wouldn't have otherwise.
 
 :vulcan_salute:
