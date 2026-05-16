@@ -32,7 +32,8 @@ For greater insight into my leadership and performance, review [my portfolio](ht
 
 Selected to lead the delivery of Maximus Canada's enabling technology. Providing leadership to our Customer Experience, Enterprise Platforms and Service Desk teams. Playing a leadership role in the application of AI as a productivity enhancer _and_ as innovation to optimize the customer journey. Key Accomplishments:
 
-  * Modernized national network creating cost savings and simplification while improving security through the application of zero trust principles.
+  * Executed modernization of national network, reducing circuit costs by $230K annually and strengthening security through the implementation of zero trust principles.
+  * Led the enterprise-wide deployment of Microsoft 365 Copilot, architecting a comprehensive training framework that secured a 98% sustained adoption rate across the knowledge worker population.
   * Delivered corporate PC refresh project featuring Microsoft Surface, Intune, and Autopilot V2. Creating a positive employee experience was a core objective resulting in a 99% successful deployment rate with an average setup time of 15 minutes.
 
 [**INFO-TECH RESEARCH GROUP**](https://www.infotech.com/)  
@@ -55,7 +56,7 @@ Transformed the IT department into a strategic innovation hub, aligning technolo
 
 * Developed a Cloud ERP / Student Information System strategy and roadmap to inform Board of Governors approval for multi-year digitization program.
 * Developed and executed a multi-year network and data center strategy aimed at reducing the College's reliance on a single provider, while balancing investment in cloud services and owned/operated hosting facilities.
-* Led the enterprise-wide migration to Microsoft 365, fundamentally changing how campus communication and collaboration.
+* Led the enterprise-wide migration to Microsoft 365, fundamentally changing campus communication and collaboration while also enabling online program delivery.
 
 [**HALIFAX REGIONAL MUNICIPALITY**](https://www.halifax.ca/)
 
@@ -83,7 +84,7 @@ Appointed to senior management position to implement ITSM best practices and to 
 **Manager, Client Relationship Management**  
 *February, 2011 to August, 2012*
 
-Relocated to Nova Scotia after being selected to drive needed cultural change and to implement industry best practices in support of a planned IT service delivery transformation in the municipality. Led IT Service Desk and CRM function (15 staff). Funded by $1.5M annual operational budget. Key accomplishment:
+Relocated to Nova Scotia after being selected to drive needed cultural change and to implement industry best practices in support of a planned IT service delivery transformation. Led IT Service Desk and CRM function (15 staff). Funded by $1.5M annual operational budget. Key accomplishment:
 
 * Implemented foundational ITIL processes, replaced legacy ITSM tool by procuring and implementing ServiceNow.
 
@@ -103,7 +104,7 @@ Requested to take on additional responsibility for 12 months by adding
 our Best Practice Office (35 staff) to existing portfolio while a colleague was away on leave. Responsibility included the implementation, operation and continual improvement of ITSM Best Practices for the Ontario government's 1300 staff infrastructure division. Funded by $5M annual operational budget.
 
 **Senior Manager, Service Order Management**  
-*August, 2008 to June, 2009*
+*August, 2008 to July, 2009*
 
 Requested to take on additional responsibility for 11 months by adding
 the Service Order Management office to existing portfolio after the departure of a colleague. Responsibility included the operational management of the Order Management function. 10,000 orders processed per month by 100 staff out of three geographical locations. Funded by $10M annual operational budget.
