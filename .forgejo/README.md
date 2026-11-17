@@ -13,4 +13,8 @@ Jekyll ignores directories whose names begin with a dot, so nothing in this
 directory is published to the site. This file exists to document the arrangement
 and to have a harmless commit to prove the mirror path works end to end.
 
+Ownership was transferred to jimbo on 2026-11-17, and Agent Kirk retains admin
+on the repository so it can keep pushing site changes here. The GitHub deploy
+key and the push mirror are unaffected by the move.
+
 Added by Agent Kirk, 2026-11-17.
