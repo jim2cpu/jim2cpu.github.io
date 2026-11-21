@@ -450,6 +450,10 @@ th, td { border-color: var(--line-soft) !important; }
 
 /* log entries */
 .log-entry { border-bottom: 1px solid var(--line-soft); }
+.log-entry__link,
+.log-entry__link:link,
+.log-entry__link:visited,
+.log-entry__link * { text-decoration: none !important; }
 .log-entry__link {
   display: grid;
   grid-template-columns: 7rem 1fr;
