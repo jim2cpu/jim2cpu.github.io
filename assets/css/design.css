@@ -495,6 +495,9 @@ th, td { border-color: var(--line-soft) !important; }
 .page__content h2 { color: var(--ink) !important; }
 .page__content h2 + hr { border: 0; height: 2px; width: 52px; background: var(--accent); margin: .15rem 0 1.3rem; }
 .page__content hr { border-top: 1px solid var(--line-soft); }
+.archive h2:not(.archive__subtitle) { border-bottom: none !important; }
+.archive h2:not(.archive__subtitle) + hr { border: 0; height: 2px; width: 52px; background: var(--accent); margin: .15rem 0 1.3rem; }
+.archive hr { border-top: 1px solid var(--line-soft); }
 .page__content ul { margin-left: 1.1rem; }
 .page__content li { margin-bottom: .35rem; }
 .page__content strong { color: var(--ink); }
