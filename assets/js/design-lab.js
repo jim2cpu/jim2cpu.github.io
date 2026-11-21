@@ -1,5 +1,6 @@
 // Preview-only design lab (P3-15). Never renders on the production host.
-// Applies saved choices on every page; builds the panel only on the landing page.
+// Applies saved choices on every page, computes a live stardate, and builds
+// the panel only on the landing page of a preview host.
 (function () {
   var KEY = { accent: 'jk.accent', type: 'jk.type', trek: 'jk.trek' };
   var html = document.documentElement;
@@ -10,24 +11,37 @@
     html.classList.toggle('trek-more', trek === 'more');
   }
 
-  // Apply saved choices early (also done inline in head to avoid a flash).
   try {
-    apply(localStorage.getItem(KEY.accent),
-          localStorage.getItem(KEY.type),
-          localStorage.getItem(KEY.trek));
+    var a0 = localStorage.getItem(KEY.accent) || 'lcars';
+    var t0 = localStorage.getItem(KEY.type) || 'chakra';
+    var k0 = localStorage.getItem(KEY.trek) || 'more';
+    apply(a0, t0, k0);
   } catch (e) {}
+
+  // Live stardate: year + zero-padded day of year, recomputed on each load.
+  function setStardate() {
+    var el = document.querySelector('[data-stardate]');
+    if (!el) return;
+    var now = new Date();
+    var y = now.getFullYear();
+    var start = Date.UTC(y, 0, 1);
+    var today = Date.UTC(y, now.getMonth(), now.getDate());
+    var day = Math.floor((today - start) / 86400000) + 1;
+    el.textContent = y + '.' + String(day).padStart(3, '0');
+  }
+  setStardate();
 
   var host = location.hostname;
   var isPreview = host.indexOf('preview') !== -1 || host.indexOf('localhost') !== -1 || host.indexOf('127.0.0.1') !== -1;
   if (!isPreview) return;
-  if (!document.querySelector('.hero')) return; // panel only on the landing page
+  if (!document.querySelector('.hero')) return;
 
   var groups = [
-    { key: KEY.accent, attr: 'data-accent', label: 'Accent',
+    { key: KEY.accent, attr: 'data-accent', label: 'Accent', def: 'lcars',
       options: [['gold','Gold'],['lcars','LCARS amber'],['copper','Copper'],['red','Command red'],['teal','Sciences teal']] },
-    { key: KEY.type, attr: 'data-type', label: 'Display type',
+    { key: KEY.type, attr: 'data-type', label: 'Display type', def: 'chakra',
       options: [['jost','Jost'],['grotesk','Space Grotesk'],['chakra','Chakra Petch'],['michroma','Michroma']] },
-    { key: KEY.trek, attr: null, label: 'Trek dial',
+    { key: KEY.trek, attr: null, label: 'Trek dial', def: 'more',
       options: [['subtle','Subtle'],['more','More']] }
   ];
 
@@ -38,7 +52,7 @@
 
   function current(group) {
     if (group.key === KEY.trek) return html.classList.contains('trek-more') ? 'more' : 'subtle';
-    return html.getAttribute(group.attr) || (group.key === KEY.accent ? 'gold' : 'jost');
+    return html.getAttribute(group.attr) || group.def;
   }
 
   groups.forEach(function (group) {
@@ -55,9 +69,9 @@
       b.dataset.v = opt[0];
       if (current(group) === opt[0]) b.classList.add('on');
       b.addEventListener('click', function () {
-        var a = localStorage.getItem(KEY.accent) || 'gold';
-        var t = localStorage.getItem(KEY.type) || 'jost';
-        var k = localStorage.getItem(KEY.trek) || 'subtle';
+        var a = localStorage.getItem(KEY.accent) || 'lcars';
+        var t = localStorage.getItem(KEY.type) || 'chakra';
+        var k = localStorage.getItem(KEY.trek) || 'more';
         if (group.key === KEY.accent) a = opt[0];
         if (group.key === KEY.type) t = opt[0];
         if (group.key === KEY.trek) k = opt[0];

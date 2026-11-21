@@ -5,18 +5,24 @@
 <!-- Design v2 (P3-15): loaded after main.css so its tokens win -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@1,400&family=Jost:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&family=Chakra+Petch:wght@600&family=Michroma&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@1,400&family=Jost:wght@400;500;600&family=Space+Grotesk:wght@500;700&family=Michroma&display=swap" rel="stylesheet">
 
 <script>
-/* Force one appearance for every viewer: dark, no light toggle. */
+/* One appearance for every viewer: dark, LCARS amber, Chakra Petch, brackets. */
 (function () {
   try {
     var d = document.documentElement;
     d.setAttribute('data-theme', 'dark');
     localStorage.setItem('theme', 'dark');
-    var a = localStorage.getItem('jk.accent'); if (a) d.setAttribute('data-accent', a);
-    var t = localStorage.getItem('jk.type'); if (t) d.setAttribute('data-type', t);
-    if (localStorage.getItem('jk.trek') === 'more') d.classList.add('trek-more');
+    var a = localStorage.getItem('jk.accent') || 'lcars';
+    var t = localStorage.getItem('jk.type') || 'chakra';
+    var k = localStorage.getItem('jk.trek') || 'more';
+    d.setAttribute('data-accent', a);
+    d.setAttribute('data-type', t);
+    if (k === 'more') d.classList.add('trek-more');
+    localStorage.setItem('jk.accent', a);
+    localStorage.setItem('jk.type', t);
+    localStorage.setItem('jk.trek', k);
   } catch (e) {}
 })();
 </script>
