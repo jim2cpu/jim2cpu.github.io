@@ -14,11 +14,20 @@ layout: default
   </div>
 
   <div class="hero__inner">
-    <p class="hero__eyebrow">Stardate <span data-stardate>{{ site.time | date: "%Y.%j" }}</span> &middot; Halifax, Nova Scotia</p>
-    <h1 class="hero__title">{{ page.hero_title | default: site.title }}</h1>
-    {% if page.hero_lede %}<p class="hero__lede">{{ page.hero_lede }}</p>{% endif %}
-    <div class="hero__cta">
-      <a class="btn btn-primary" href="{{ '/year-archive/' | relative_url }}">Read the log</a>
+    <div class="hero__grid">
+      <div class="hero__text">
+        <p class="hero__eyebrow">Stardate <span data-stardate>{{ site.time | date: "%Y.%j" }}</span> &middot; Halifax, Nova Scotia</p>
+        <h1 class="hero__title">{{ page.hero_title | default: site.title }}</h1>
+        {% if page.hero_lede %}<p class="hero__lede">{{ page.hero_lede }}</p>{% endif %}
+        <div class="hero__cta">
+          <a class="btn btn-primary" href="{{ '/year-archive/' | relative_url }}">Read the log</a>
+        </div>
+      </div>
+      <div class="hero__portrait-wrap">
+        <div class="hero__portrait-frame">
+          <img class="hero__portrait" src="{{ '/images/profile.png' | relative_url }}" alt="{{ site.author.name }}">
+        </div>
+      </div>
     </div>
   </div>
 </section>
