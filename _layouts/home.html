@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<section class="hero" aria-label="Introduction">
+  <div class="hero__sky" aria-hidden="true">
+    <div class="hero__stars"></div>
+    <div class="hero__stars2"></div>
+    <div class="hero__stars3"></div>
+    <div class="hero__orbit"></div>
+    <div class="hero__planet"></div>
+  </div>
+
+  <div class="hero__inner">
+    {% if page.hero_eyebrow %}<p class="hero__eyebrow">{{ page.hero_eyebrow }}</p>{% endif %}
+    <h1 class="hero__title">{{ page.title | default: site.title }}</h1>
+    {% if page.hero_lede %}<p class="hero__lede">{{ page.hero_lede }}</p>{% endif %}
+    <div class="hero__cta">
+      <a class="btn btn-primary" href="{{ '/year-archive/' | relative_url }}">Read the log</a>
+      <a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">About me</a>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="wrapper">
+    <h2 class="section-label">Recent entries</h2>
+    <ul class="log-list">
+      {% for post in site.posts limit: 3 %}
+      <li class="log-item">
+        <a class="log-item__link" href="{{ post.url | relative_url }}">
+          <span class="log-item__date">{{ post.date | date: "%Y.%m.%d" }}</span>
+          <span class="log-item__title">{{ post.title }}</span>
+          <span class="log-item__excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncate: 150 }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="log-more"><a href="{{ '/year-archive/' | relative_url }}">All entries &rarr;</a></p>
+  </div>
+</section>
+
+{% if page.about_blurb %}
+<section class="home-about">
+  <div class="home-about__grid">
+    <img class="home-about__avatar" src="{{ '/images/profile.png' | relative_url }}" alt="{{ site.author.name }}">
+    <div>
+      <h2 class="section-label">About</h2>
+      <p>{{ page.about_blurb }}</p>
+      <p><a href="{{ '/about/' | relative_url }}">The longer version &rarr;</a></p>
+    </div>
+  </div>
+</section>
+{% endif %}
