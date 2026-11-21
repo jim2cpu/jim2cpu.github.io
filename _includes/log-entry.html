@@ -1,0 +1,10 @@
+{% include base_path %}
+<div class="log-entry">
+  <a class="log-entry__link" href="{{ post.url | relative_url }}">
+    <span class="log-entry__date">{{ post.date | date: "%Y.%m.%d" }}</span>
+    <span class="log-entry__body">
+      <span class="log-entry__title">{{ post.title }}</span>
+      {% if post.excerpt %}<span class="log-entry__excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncate: 180 }}</span>{% endif %}
+    </span>
+  </a>
+</div>

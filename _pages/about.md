@@ -1,10 +1,9 @@
 ---
 permalink: /about/
-title: ""
+title: "About Me"
 author_profile: true
 ---
 
-# About Me
 
 I was born and raised in rural Nova Scotia. After high school, I started down the university path, pursuing a business degree. It took me awhile to figure out that wasn't for me, but I eventually landed in a technical college that helped me translate my growing :heart: for technology to a credential that would position me for the workforce.
 
