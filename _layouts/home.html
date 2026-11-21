@@ -13,8 +13,13 @@ layout: default
     <div class="hero__planet"></div>
   </div>
 
+  <svg class="hero__insignia" viewBox="0 0 240 200" aria-hidden="true" focusable="false">
+    <path d="M120 14 L214 178 H26 Z" fill="none" stroke="currentColor" stroke-width="5"/>
+    <path d="M68 132 Q120 162 172 132" fill="none" stroke="currentColor" stroke-width="5"/>
+  </svg>
+
   <div class="hero__inner">
-    {% if page.hero_eyebrow %}<p class="hero__eyebrow">{{ page.hero_eyebrow }}</p>{% endif %}
+    <p class="hero__eyebrow">Stardate {{ site.time | date: "%Y.%j" }} &middot; Halifax, Nova Scotia</p>
     <h1 class="hero__title">{{ page.title | default: site.title }}</h1>
     {% if page.hero_lede %}<p class="hero__lede">{{ page.hero_lede }}</p>{% endif %}
     <div class="hero__cta">
@@ -41,16 +46,3 @@ layout: default
     <p class="log-more"><a href="{{ '/year-archive/' | relative_url }}">All entries &rarr;</a></p>
   </div>
 </section>
-
-{% if page.about_blurb %}
-<section class="home-about">
-  <div class="home-about__grid">
-    <img class="home-about__avatar" src="{{ '/images/profile.png' | relative_url }}" alt="{{ site.author.name }}">
-    <div>
-      <h2 class="section-label">About</h2>
-      <p>{{ page.about_blurb }}</p>
-      <p><a href="{{ '/about/' | relative_url }}">The longer version &rarr;</a></p>
-    </div>
-  </div>
-</section>
-{% endif %}
