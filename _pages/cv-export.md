@@ -9,7 +9,7 @@
       </p>
     </td>
     <td style="border: none; text-align: right; width: 120px; vertical-align: middle;">
-      <img src="https://jimkirk.org/images/profile.png" width="110" height="110" style="border-radius: 50%; object-fit: cover; border: 2px solid #eee;">
+      <img src="https://jimkirk.org/images/profile.jpg" width="110" height="110" style="border-radius: 50%; object-fit: cover; border: 2px solid #eee;">
     </td>
   </tr>
 </table>
