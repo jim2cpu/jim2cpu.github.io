@@ -29,7 +29,7 @@
     if (!q) { hint.textContent = 'Start typing. Results appear below.'; return; }
     var terms = q.split(/\s+/).filter(Boolean);
     var hits = data.filter(function (p) {
-      var hay = (p.title + ' ' + p.excerpt).toLowerCase();
+      var hay = (p.title + ' ' + (p.body || p.excerpt || '')).toLowerCase();
       return terms.every(function (t) { return hay.indexOf(t) !== -1; });
     }).slice(0, 25);
     hint.textContent = hits.length
