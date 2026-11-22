@@ -2,6 +2,31 @@
 
 <!-- start custom head snippets -->
 
+<!-- Design v2 (P3-15) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500&display=swap" rel="stylesheet">
+
+<script>
+/* One fixed appearance for every viewer: dark, LCARS amber, Chakra Petch. */
+(function () {
+  try {
+    var d = document.documentElement;
+    d.setAttribute('data-theme', 'dark');
+    d.setAttribute('data-accent', 'lcars');
+    d.setAttribute('data-type', 'chakra');
+    d.classList.add('trek-more');
+    localStorage.setItem('theme', 'dark');
+    localStorage.removeItem('jk.accent');
+    localStorage.removeItem('jk.type');
+    localStorage.removeItem('jk.trek');
+  } catch (e) {}
+})();
+</script>
+
+<link rel="stylesheet" href="{{ base_path }}/assets/css/design.css">
+<script defer src="{{ base_path }}/assets/js/stardate.js"></script>
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
@@ -11,7 +36,7 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
+<link rel="icon" href="{{ base_path }}/images/favicon.ico"/>
+<meta name="theme-color" content="#131a24"/>
 
 <!-- end custom head snippets -->
