@@ -481,3 +481,11 @@ input[type="search"].search-input { box-sizing: border-box; max-width: 100%; }
 .masthead__search a { display: inline-flex; align-items: center; padding: .15rem .25rem; }
 .masthead__search svg { width: 18px; height: 18px; display: block; transition: transform .15s ease; }
 .masthead__search a:hover svg { transform: scale(1.1); }
+/* ---- Resume PDF (tools/resume-pdf) -------------------------------------
+   .resume-print-head is the letterhead of the generated PDF; on screen the
+   page's own heading does that job, so it stays hidden. The resume page
+   deliberately carries no link to the PDF: Jim uses it for applications, a
+   visitor gets the HTML page. */
+@media screen {
+  .resume-print-head { display: none; }
+}

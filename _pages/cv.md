@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include resume-print-head.html %}
+
 ## Personal Profile
 ---
 Focused and enthusiastic executive with a proven ability to deliver results on complex change initiatives. Positive
