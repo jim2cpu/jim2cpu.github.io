@@ -25,49 +25,15 @@
   --shadow:        0 18px 50px rgba(0, 0, 0, .38);
 }
 
-/* ---- accent palettes (lab-switchable); LCARS amber is default */
+/* ---- LCARS amber accent (fixed) ---- */
 html {
   --accent:       #ff9f1c;   /* LCARS amber */
   --accent-ink:   #ffc879;
   --accent-soft:  rgba(255, 159, 28, .14);
   --accent-glow:  rgba(255, 159, 28, .20);
 }
-html[data-accent="gold"] {
-  --accent:       #e2b24d;
-  --accent-ink:   #f4d78f;
-  --accent-soft:  rgba(226, 178, 77, .14);
-  --accent-glow:  rgba(226, 178, 77, .18);
-}
-html[data-accent="lcars"] {
-  --accent:       #ff9f1c;
-  --accent-ink:   #ffc879;
-  --accent-soft:  rgba(255, 159, 28, .14);
-  --accent-glow:  rgba(255, 159, 28, .20);
-}
-html[data-accent="copper"] {
-  --accent:       #cf8250;
-  --accent-ink:   #eab68f;
-  --accent-soft:  rgba(207, 130, 80, .15);
-  --accent-glow:  rgba(207, 130, 80, .20);
-}
-html[data-accent="red"] {
-  --accent:       #c9483d;
-  --accent-ink:   #f0a099;
-  --accent-soft:  rgba(201, 72, 61, .16);
-  --accent-glow:  rgba(201, 72, 61, .22);
-}
-html[data-accent="teal"] {
-  --accent:       #38a89b;
-  --accent-ink:   #8fe0d6;
-  --accent-soft:  rgba(56, 168, 155, .15);
-  --accent-glow:  rgba(56, 168, 155, .20);
-}
 
-/* ---- display type options; Chakra Petch is default ---------- */
-html[data-type="jost"]       { --display: "Jost", "IBM Plex Sans", var(--sans); }
-html[data-type="grotesk"]    { --display: "Space Grotesk", "IBM Plex Sans", var(--sans); }
-html[data-type="chakra"]     { --display: "Chakra Petch", "IBM Plex Sans", var(--sans); }
-html[data-type="michroma"]   { --display: "Michroma", "IBM Plex Sans", var(--sans); }
+/* ---- display face (fixed) ---- */
 
 /* ---- dark theme token overrides (beat _default_dark.scss) --- */
 html[data-theme="dark"] {
@@ -240,7 +206,6 @@ hr { border: 0; border-top: 1px solid var(--line-soft); }
   line-height: .98; letter-spacing: -.015em; font-weight: 600;
   color: #f3f6fb; margin: 0 0 1.2rem; text-wrap: balance;
 }
-html[data-type="michroma"] .hero__title { font-size: clamp(2rem, 4.4vw, 3.4rem); letter-spacing: 0; line-height: 1.06; }
 .hero__lede {
   font-family: var(--serif);
   font-style: normal;
@@ -335,15 +300,6 @@ html.trek-more .section-label::before { content: "// "; color: var(--accent); op
 .log-more a:hover { color: #fff; }
 
 /* about brief at the foot of the landing */
-.home-about { background: var(--bg-elev); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 4rem 0; }
-.home-about__grid {
-  max-width: var(--maxw); margin: 0 auto; padding: 0 2rem;
-  display: grid; grid-template-columns: 92px 1fr; gap: 2rem; align-items: center;
-}
-.home-about__avatar { width: 92px; height: 92px; border-radius: 50%; object-fit: cover; border: 1px solid var(--line); }
-.home-about p { color: var(--ink-dim); line-height: 1.65; margin: 0 0 1rem; max-width: 46rem; }
-.home-about a { color: var(--accent-ink); font-weight: 600; text-decoration: none; }
-.home-about a:hover { color: #fff; }
 
 /* ---- inner pages ------------------------------------------- */
 .sidebar { opacity: 1; }
@@ -373,30 +329,6 @@ th, td { border-color: var(--line-soft) !important; }
 .page__footer a:hover { color: var(--accent) !important; }
 .page__footer-copyright { color: var(--ink-faint); }
 
-/* ---- preview-only design lab ------------------------------- */
-.lab {
-  position: fixed; left: 16px; bottom: 16px; z-index: 9999;
-  font-family: var(--mono); font-size: 12px; color: var(--ink-dim); max-width: 320px;
-}
-.lab__toggle {
-  background: var(--bg-elev); color: var(--ink); border: 1px solid var(--line);
-  border-radius: 999px; padding: .45rem .8rem; cursor: pointer; font: inherit; letter-spacing: .08em; text-transform: uppercase;
-}
-.lab__toggle:hover { border-color: var(--accent); color: var(--accent-ink); }
-.lab__body {
-  display: none; margin-bottom: .5rem; padding: .8rem; background: rgba(14,20,28,.96);
-  border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow);
-}
-.lab.open .lab__body { display: block; }
-.lab__group { margin: .1rem 0 .3rem; color: var(--ink-faint); letter-spacing: .14em; text-transform: uppercase; font-size: 10px; }
-.lab__row { display: flex; flex-wrap: wrap; gap: .3rem; margin-bottom: .55rem; }
-.lab__row button {
-  background: transparent; border: 1px solid var(--line); color: var(--ink-dim);
-  border-radius: 6px; padding: .22rem .5rem; cursor: pointer; font: inherit;
-}
-.lab__row button:hover { border-color: var(--accent); color: var(--accent-ink); }
-.lab__row button.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent-ink); }
-
 /* ---- responsive -------------------------------------------- */
 @media (max-width: 900px) {
   .hero__grid { grid-template-columns: 1fr; gap: 1.6rem; }
@@ -409,8 +341,6 @@ th, td { border-color: var(--line-soft) !important; }
   .hero__planet { width: 70vw; height: 70vw; right: -26%; bottom: -34%; }
   .log-item__link { grid-template-columns: 1fr; gap: .25rem; }
   .log-item__excerpt { grid-column: 1; }
-  .home-about__grid { grid-template-columns: 1fr; }
-  .home-about__avatar { width: 72px; height: 72px; }
 }
 
 /* ---- reduced motion ---------------------------------------- */
@@ -542,3 +472,9 @@ body:not(:has(.sidebar)) .page {
 .search-result a:hover .search-result__title { color: var(--accent-ink); }
 .search-result__meta { display: block; font-family: var(--mono); font-size: .74rem; color: var(--ink-faint); margin: .15rem 0; }
 .search-result__excerpt { display: block; color: var(--ink-dim); font-size: .92rem; line-height: 1.5; }
+
+/* nav consistency + search icon */
+.masthead__menu-item a { font-family: var(--sans); }
+.masthead__search a { display: inline-flex; align-items: center; padding: .15rem .25rem; }
+.masthead__search svg { width: 18px; height: 18px; display: block; transition: transform .15s ease; }
+.masthead__search a:hover svg { transform: scale(1.1); }

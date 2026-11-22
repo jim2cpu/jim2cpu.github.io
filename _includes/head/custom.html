@@ -2,33 +2,30 @@
 
 <!-- start custom head snippets -->
 
-<!-- Design v2 (P3-15): loaded after main.css so its tokens win -->
+<!-- Design v2 (P3-15) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500&family=Jost:wght@400;500;600&family=Space+Grotesk:wght@500;700&family=Michroma&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500&display=swap" rel="stylesheet">
 
 <script>
-/* One appearance for every viewer: dark, LCARS amber, Chakra Petch, brackets. */
+/* One fixed appearance for every viewer: dark, LCARS amber, Chakra Petch. */
 (function () {
   try {
     var d = document.documentElement;
     d.setAttribute('data-theme', 'dark');
+    d.setAttribute('data-accent', 'lcars');
+    d.setAttribute('data-type', 'chakra');
+    d.classList.add('trek-more');
     localStorage.setItem('theme', 'dark');
-    var a = localStorage.getItem('jk.accent') || 'lcars';
-    var t = localStorage.getItem('jk.type') || 'chakra';
-    var k = localStorage.getItem('jk.trek') || 'more';
-    d.setAttribute('data-accent', a);
-    d.setAttribute('data-type', t);
-    if (k === 'more') d.classList.add('trek-more');
-    localStorage.setItem('jk.accent', a);
-    localStorage.setItem('jk.type', t);
-    localStorage.setItem('jk.trek', k);
+    localStorage.removeItem('jk.accent');
+    localStorage.removeItem('jk.type');
+    localStorage.removeItem('jk.trek');
   } catch (e) {}
 })();
 </script>
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/design.css">
-<script defer src="{{ base_path }}/assets/js/design-lab.js"></script>
+<script defer src="{{ base_path }}/assets/js/stardate.js"></script>
 
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
