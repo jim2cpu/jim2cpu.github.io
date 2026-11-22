@@ -451,6 +451,8 @@ body:not(:has(.sidebar)) .page {
 /* search page */
 .search-wrap { max-width: 46rem; }
 .search-input {
+  box-sizing: border-box;
+  max-width: 100%;
   width: 100%;
   padding: .85rem 1.05rem;
   font-family: var(--sans);
@@ -462,6 +464,7 @@ body:not(:has(.sidebar)) .page {
   outline: none;
   transition: border-color .15s ease, box-shadow .15s ease;
 }
+input[type="search"].search-input { box-sizing: border-box; max-width: 100%; }
 .search-input::placeholder { color: var(--ink-faint); }
 .search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
 .search-hint { color: var(--ink-faint); font-size: .84rem; margin: .8rem 0 1.4rem; }
